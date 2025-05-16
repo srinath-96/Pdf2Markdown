@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+crewai
+google-generativeai
+pypdfium2
+markdownify
+Pillow
+pytesseract
+pdf2image
+python-multipart
